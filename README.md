@@ -1,4 +1,3 @@
 # hello-word
-Just another repository.
+Just another repository
 i am korean student. my name is sim jae whan.
-my major is software.
